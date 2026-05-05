@@ -18,20 +18,46 @@ Hi, I'm Ahmed Marwan
 
 #### 💪 Frontend Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass"/>
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+    </td>
+    <td align="center" width="60">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
