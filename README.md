@@ -5,7 +5,7 @@ Hi, I'm Ahmed Marwan
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?width=550&lines=Frontend+Developer+%7C+React+%26+Next.js+%F0%9F%98%8A">
+    <img src="https://readme-typing-svg.herokuapp.com?width=550&lines=Frontend+Developer+%7C+React+%26+Next.js+%F0%9F%98%8A">
   </a>
 </p>
 
@@ -26,10 +26,10 @@ Hi, I'm Ahmed Marwan
 ```bash
 DevAhmedMarwan@github
 -------------------------
-🌱 I’m currently learning Node.jsذ
+🌱 I’m currently learning Node.js
 💬 Ask me about React & Next.js
 👨‍💻 All of my projects are available at: https://ahmedmarwanportfolio.netlify.app/
-📫 How to reach me: YOUR_EMAIL_HERE
+📫 How to reach me: ahmed.marwan.dev@gmail.com
 🌟 Main languages: JavaScript
 🚩 Interested in MERN Stack Learning & Full Stack Development
 ```
@@ -37,8 +37,25 @@ DevAhmedMarwan@github
 <hr>
 <h2>  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudSaber1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmoudSaber1&theme=github_dark&utcOffset=8)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSaber1&show_icons=true&theme=dark)
+### 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevAhmedMarwan&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Profile Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevAhmedMarwan&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevAhmedMarwan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevAhmedMarwan&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevAhmedMarwan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevAhmedMarwan&theme=github_dark&utcOffset=3)
+
+---
+
+### 🚀 Portfolio
+🔗 GitHub: https://github.com/DevAhmedMarwan  
+🌐 Portfolio: https://ahmedmarwanportfolio.netlify.app/
 <hr>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me </h2>
 <p>
