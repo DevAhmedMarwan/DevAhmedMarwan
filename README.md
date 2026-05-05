@@ -5,7 +5,7 @@ Hi, I'm Ahmed Marwan
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?width=550&lines=Frontend+Developer+%7C+React+%26+Next.js+%F0%9F%98%8A">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?width=550&lines=Frontend+Developer+%7C+React+%26+Next.js+%F0%9F%98%8A">
   </a>
 </p>
 
